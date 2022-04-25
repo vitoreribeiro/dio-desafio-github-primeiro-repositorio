@@ -1,0 +1,28 @@
+## Anotações do curso de Introdução ao Git e GitHub :computer:
+
+
+
+
+
+### Comandos principais
+
+
+
+#### git init 
+
+Para iniciar o repositório no Git dentro do diretório.
+
+#### git add *
+
+para adicionar todos os arquivos ao Git.
+
+#### git commit -m ""
+
+Para commitar os arquivos no Git. "mensagem"
+
+
+
+
+
+
+
